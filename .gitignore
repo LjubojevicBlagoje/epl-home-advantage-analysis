@@ -220,8 +220,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-
-# Processed data is regeneratable from raw
-data/processed/*.csv
-data/processed/*.parquet
-!data/processed/.gitkeep
